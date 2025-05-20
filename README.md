@@ -1,3 +1,3 @@
-# Sui DApp with Wallet Connect
+# Sui Grid Trading Bot
 
-This is a Sui-based DApp using @mysten/dapp-kit to connect to Sui Wallet.
+This is the frontend for a grid trading bot using the Sui Wallet.
